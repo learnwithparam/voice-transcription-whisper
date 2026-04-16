@@ -1,0 +1,12 @@
+services:
+  backend:
+    build: .
+    container_name: voice-transcription-whisper-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+      - /app/.venv
+    env_file:
+      - backend/.env
+    restart: unless-stopped
