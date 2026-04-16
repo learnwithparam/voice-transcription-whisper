@@ -57,10 +57,22 @@ frontend/dist/
 
 .claude
 tmp
-CLAUDE.md
 
 *exercise.py
 STUDENT_PROFILE.md
 exercise/STUDENT_PROFILE.md
 exercise/python/*.py
 exercise/typescript/*.ts
+
+# Standardized additions (appended by project setup)
+.env.local
+.env.*.local
+node_modules/
+.next/
+build/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.vscode/
+*~
