@@ -96,8 +96,8 @@ make logs           View container logs
 make clean          Remove venv, node_modules, and caches
 ```
 
-## About
+## Learn more
 
-Created by [learnwithparam.com](https://learnwithparam.com) for engineers learning AI Engineering through hands-on projects.
-
-Explore more courses at [learnwithparam.com/courses](https://learnwithparam.com/courses).
+- Start the course: [learnwithparam.com/courses/voice-transcription-whisper](https://www.learnwithparam.com/courses/voice-transcription-whisper)
+- AI Bootcamp for Software Engineers: [learnwithparam.com/ai-bootcamp](https://www.learnwithparam.com/ai-bootcamp)
+- All courses: [learnwithparam.com/courses](https://www.learnwithparam.com/courses)
